@@ -53,7 +53,7 @@ const Footer = () => {
       <div className='footerbuttom'></div>
        </div>
        <div className='Developer'>
-        @2024 BUMA LOGISTICS. All Rights Reserved.
+        @2024 Bravo. All Rights Reserved.
         <h4>Design by <span>MART,</span> <span>UYI,</span> <span>DeOracleEdge,</span> <span>IMAN</span></h4>
        </div>
     </footer>
