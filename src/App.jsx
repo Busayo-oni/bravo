@@ -7,6 +7,9 @@ import Sea from './component/Sea'
 import Footer from './component/Footer'
 import Flavor from './component/Flavor'
 import Hero from './component/Hero'
+import Popular from './component/Popular'
+
+
 
 
 
@@ -16,6 +19,7 @@ function App() {
     <>
       <Header />
       <Hero />
+      <Popular />
       <OurStory />
       <Flavor />
       <Sea />
